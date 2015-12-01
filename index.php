@@ -1,3 +1,7 @@
+<?php 
+//blablabla
+?>
+
 <!doctype html>
 
 <html lang="fr">
@@ -14,6 +18,8 @@
     </head>
 
     <body>
+        <form>
+        </form>
       
     </body>
 </html>
